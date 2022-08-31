@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 django = "*"
 mysqlclient = "*"
+gunicorn = "*"
+whitenoise = "*"
 
 [dev-packages]
 
